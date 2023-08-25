@@ -20,7 +20,8 @@ tapi, penurunan tersebut masih dapat ditoleransi, karena tidak banyak model yang
 
 Dibawah ini adalah demo dari Model Prediksi Harga iPhone:
 
-https://github.com/syaerulid/iphone_price_predictor/blob/main/demo/flask_fast.gif
+![Demo GIF](https://github.com/syaerulid/iphone_price_predictor/raw/main/demo/flask_fast.gif)
+
 
 ![image](https://github.com/syaerulid/iphone_price_predictor/assets/119069839/2ae1f27d-81e5-43b5-bd94-02188649b5bd)
 
