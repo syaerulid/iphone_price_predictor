@@ -27,5 +27,9 @@ tapi, penurunan tersebut masih dapat ditoleransi, karena tidak banyak model yang
 
 ![](demo/flask_fast.gif)
 
-
+<br>
+<br>
+Kelemahan Model ini:<br>
+Sample Dataset Kecil, sehingga menghasilkan skor RMSE dan MSE yang besar, hal ini dapat dikurangi dengan memperbanyak Sample<br>
+Tidak Memprediksi harga iPhone seri 11 Kebawah<br>
 
