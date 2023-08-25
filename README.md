@@ -1,6 +1,9 @@
 # Prediksi Harga iPhone
 Repo tentang Prediksi Harga Iphone menggunakan Machine Learning Metode Regresi<br>
 <br>
+
+![image](https://github.com/syaerulid/iphone_price_predictor/assets/119069839/2ae1f27d-81e5-43b5-bd94-02188649b5bd)
+
 Dataset model ini diperoleh dengan cara Webscraping menggunakan Selenium dan BeautifulSoup pada Web Shopee pada 6 Toko yang berbeda
 <br>
 
@@ -24,5 +27,5 @@ tapi, penurunan tersebut masih dapat ditoleransi, karena tidak banyak model yang
 
 ![](demo/flask_fast.gif)
 
-![image](https://github.com/syaerulid/iphone_price_predictor/assets/119069839/2ae1f27d-81e5-43b5-bd94-02188649b5bd)
+
 
