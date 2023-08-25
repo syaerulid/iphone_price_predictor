@@ -18,8 +18,10 @@ Model ini memiliki R2-Squared Score sebesar 0.96xx, artinya model ini mampu mena
 meskipun terdapat penurunan R2-Squared Score dari training data diangka 0.99 menjadi 0.96 untuk testing data<br>
 tapi, penurunan tersebut masih dapat ditoleransi, karena tidak banyak model yang mampu memprediksi secara sempurna
 
-Dibawah ini adalah demo dari Model Prediksi Harga iPhone:
-![](https://imgur.com/a/obtbMEI)
+<p align="center">
+  <b>Dibawah ini adalah demo dari Model Prediksi Harga iPhone:</b>
+</p>
+![](demo/flask_fast.gif)
 
 ![image](https://github.com/syaerulid/iphone_price_predictor/assets/119069839/2ae1f27d-81e5-43b5-bd94-02188649b5bd)
 
