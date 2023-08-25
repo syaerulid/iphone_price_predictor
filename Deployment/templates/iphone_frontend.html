@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>iPhone Price Predictor</title>
+</head>
+<body>
+    <h1>iPhone Price Predictor</h1>
+    <form action="/predict" method="post">
+        <label for="feature1">Memory: [64,128 sampai 1028]</label>
+        <input type="number" step="any" name="feature1"><br>
+        <label for="feature2">Model: [11 keatas]</label>
+        <input type="number" step="any" name="feature2"><br>
+        <label for="feature3">Variant Plus: [isi 0 jika tidak, 1 jika iya]</label>
+        <input type="number" step="any" name="feature3"><br>
+        <label for="feature4">Variant Normal: [isi 0 jika tidak, 1 jika iya]</label>
+        <input type="number" step="any" name="feature4"><br>
+        <label for="feature5">Variant Pro Max: [isi 0 jika tidak, 1 jika iya]</label>
+        <input type="number" step="any" name="feature5"><br>
+        <label for="feature6">Variant Pro: [isi 0 jika tidak, 1 jika iya]</label>
+        <input type="number" step="any" name="feature6"><br><br>
+        <input type="submit" value="Predict">
+    </form>
+    <br>
+    <h2>Result:</h2>
+    <p>{{ result }}</p>
+</body>
+</html>
